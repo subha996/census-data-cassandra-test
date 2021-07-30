@@ -1,0 +1,127 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Census Income Prediction</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+
+
+{% block body %}
+<div class="content">
+    <h2 style="text-align: center">Census Income Prediction</h2>
+
+    <!-- <fieldset> style -->
+    <style>
+        div {
+          margin-bottom: 10px;
+        }
+        label {
+          display: inline-block;
+          width: 120px;
+        }
+        fieldset {
+          background: #e5f1e5;
+        }
+        legend {
+          padding: 20px 0;
+          font-size: 20px;
+        }
+      </style>
+
+    <div class="form">
+        <form action="/predict" method="POST">
+            <fieldset>
+                <legend>Personal Information:</legend>
+
+            <!--Start taking input from user-->
+            <div class='label'>
+            <label for='age'>Age</label>
+            <input type="number" name="age" id="age" placeholder="enter your age">
+            <br>
+            </div>
+
+            <div class='label'>
+            <label for='workclass'>Work Class</label>
+            <select name='workclass' id="workclass">
+                <option value="Private">Private</option>
+                <option value="Self-emp-not-inc">Self-emp-not-inc</option>
+                <option value="Self-emp-inc">Self-emp-inc</option>
+                <option value="Federal-gov">Federal-gov</option>
+                <option value="Local-gov">Local-gov</option>
+                <option value="State-gov">State-gov</option>
+                <option value="Without-pay">Without-pay</option>
+            </select>
+            <br>
+            </div>
+
+            <div class='label'>
+            <label for='education'>Education</label>
+            <select name='occupation' id="occupation">
+                <option value="Craft-repair">Craft-repair</option>
+                <option value="Exec-managerial">Exec-managerial</option>
+                <option value="Farming-fishing">Farming-fishing</option>
+                <option value="Handlers-cleaners">Handlers-cleaners</option>
+                <option value="Machine-op-inspct">Machine-op-inspct</option>
+                <option value="Other-service">Other-service</option>
+                <option value="Priv-house-serv">Priv-house-serv</option>
+                <option value="Prof-specialty">Prof-specialty</option>
+                <option value="Protective-serv">Protective-serv</option>
+                <option value="Sales">Sales</option>
+                <option value="Tech-support">Tech-support</option>
+                <option value="Transport-moving">Transport-moving</option>
+                <option value="Armed-Forces">Armed-Forces</option>
+                <option value="Adm-clerical">Adm-clerical</option>
+            </select>
+            <br>
+            </div>
+
+            <div class='label'>
+            <label for='sex'>Gender</label>
+            <select name='sex' id="sex">
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            </select>
+            <br>
+            </div>
+
+            <div class='label'>
+            <label for='hours_per_week'>Working Hours per Week</label>
+            <input type="number" name="hours_per_week" id="hours_per_week" placeholder="Working hours(week)">
+            </div>
+
+            <div class='label'>
+            <label for='education_label'>Education</label>
+            <select name="education_label" id="education_label">
+                <option value="School-Level">School Lavel</option>
+                <option value="College-Level">College Lavel</option>
+                <option value="Associate">Associate</option>
+                <option value="Masters">Masters</option>
+            </select>
+            <br>
+            </div>
+        </fieldset>
+          
+          <div>
+            <!--Juat getting extra space-->
+          </div>
+            <div style="text-align: center;">
+            <input type="submit" value="Predict" id='search' class="search" style="height: 30px; width: 100px; left: 250; top: 250;">
+            </div>
+         
+ 
+    
+        </form>
+
+    </div>
+    
+</div>
+<div class='info'>
+  <h3 style="text-align: left;">About:-</h3>
+  <p style="text-align: left;">
+  This project is done by <b>Census Income Dataset</b> collect from <b>UCI Repository</b>, and the task is whether a person's income will be <b>above 50k</b> dollars or <b>less than</b>. 
+  <br>Fill in some information and then click the <b>Predict</b> button to get the prediction.</p>
+</div>
+<h6 style="text-align: center;">subhanath91@gmail.com</h6>
+{% endblock %}

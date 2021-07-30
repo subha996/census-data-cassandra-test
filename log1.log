@@ -1,0 +1,1234 @@
+2021-07-24 20:38:26,790 - INFO - homePage - Home pahe shown
+2021-07-24 20:38:43,841 - INFO - index - Prediction page shown
+2021-07-24 20:38:43,841 - INFO - index - If passed
+2021-07-24 20:38:43,841 - INFO - index - enter inside try
+2021-07-24 20:38:43,843 - INFO - index - age
+2021-07-24 20:38:43,844 - INFO - index - workclass
+2021-07-24 20:38:43,844 - INFO - index - occupation
+2021-07-24 20:38:43,844 - INFO - index - sex
+2021-07-24 20:38:43,844 - INFO - index - hourse per week
+2021-07-24 20:38:43,844 - INFO - index - come to exception
+2021-07-24 20:48:47,635 - INFO - homePage - Home pahe shown
+2021-07-24 20:48:56,644 - INFO - index - Prediction page shown
+2021-07-24 20:48:56,644 - INFO - index - If passed
+2021-07-24 20:48:56,644 - INFO - index - enter inside try
+2021-07-24 20:48:56,648 - INFO - index - age
+2021-07-24 20:48:56,648 - INFO - index - workclass
+2021-07-24 20:48:56,648 - INFO - index - occupation
+2021-07-24 20:48:56,648 - INFO - index - sex
+2021-07-24 20:48:56,648 - INFO - index - hourse per week
+2021-07-24 20:48:56,648 - INFO - index - education label
+2021-07-24 20:48:59,275 - INFO - index - model loaded
+2021-07-24 20:48:59,275 - INFO - index - array created
+2021-07-24 20:48:59,510 - INFO - index - prediction  done
+2021-07-24 20:48:59,510 - INFO - index - pass the prediction if else
+2021-07-24 20:48:59,511 - INFO - index - Returning the result html page
+2021-07-24 23:52:07,410 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-24 23:52:26,724 - INFO - index - Prediction page shown
+2021-07-24 23:52:26,725 - INFO - index - If passed
+2021-07-24 23:52:26,725 - INFO - index - enter inside try
+2021-07-24 23:52:26,752 - INFO - index - age
+2021-07-24 23:52:26,752 - INFO - index - workclass
+2021-07-24 23:52:26,752 - INFO - index - occupation
+2021-07-24 23:52:26,752 - INFO - index - sex
+2021-07-24 23:52:26,753 - INFO - index - hourse per week
+2021-07-24 23:52:26,753 - INFO - index - education label
+2021-07-24 23:52:32,387 - INFO - index - model loaded
+2021-07-24 23:52:32,387 - INFO - index - array created
+2021-07-24 23:52:32,578 - INFO - index - prediction  done
+2021-07-24 23:52:32,578 - INFO - index - pass the prediction if else
+2021-07-24 23:52:32,578 - INFO - index - Returning the result html page
+2021-07-24 23:52:42,486 - INFO - index - Prediction page shown
+2021-07-24 23:52:42,487 - INFO - index - If passed
+2021-07-24 23:52:42,487 - INFO - index - enter inside try
+2021-07-24 23:52:42,487 - INFO - index - age
+2021-07-24 23:52:42,487 - INFO - index - workclass
+2021-07-24 23:52:42,487 - INFO - index - occupation
+2021-07-24 23:52:42,487 - INFO - index - sex
+2021-07-24 23:52:42,487 - INFO - index - hourse per week
+2021-07-24 23:52:42,487 - INFO - index - education label
+2021-07-24 23:52:42,541 - INFO - index - model loaded
+2021-07-24 23:52:42,541 - INFO - index - array created
+2021-07-24 23:52:42,555 - INFO - index - prediction  done
+2021-07-24 23:52:42,555 - INFO - index - pass the prediction if else
+2021-07-24 23:52:42,556 - INFO - index - Returning the result html page
+2021-07-24 23:52:47,867 - INFO - index - Prediction page shown
+2021-07-24 23:52:47,867 - INFO - index - If passed
+2021-07-24 23:52:47,867 - INFO - index - enter inside try
+2021-07-24 23:52:47,867 - INFO - index - age
+2021-07-24 23:52:47,867 - INFO - index - workclass
+2021-07-24 23:52:47,868 - INFO - index - occupation
+2021-07-24 23:52:47,868 - INFO - index - sex
+2021-07-24 23:52:47,868 - INFO - index - hourse per week
+2021-07-24 23:52:47,868 - INFO - index - education label
+2021-07-24 23:52:47,919 - INFO - index - model loaded
+2021-07-24 23:52:47,919 - INFO - index - array created
+2021-07-24 23:52:47,932 - INFO - index - prediction  done
+2021-07-24 23:52:47,932 - INFO - index - pass the prediction if else
+2021-07-24 23:52:47,932 - INFO - index - Returning the result html page
+2021-07-24 23:52:55,173 - INFO - index - Prediction page shown
+2021-07-24 23:52:55,173 - INFO - index - If passed
+2021-07-24 23:52:55,173 - INFO - index - enter inside try
+2021-07-24 23:52:55,173 - INFO - index - age
+2021-07-24 23:52:55,174 - INFO - index - workclass
+2021-07-24 23:52:55,174 - INFO - index - occupation
+2021-07-24 23:52:55,174 - INFO - index - sex
+2021-07-24 23:52:55,174 - INFO - index - hourse per week
+2021-07-24 23:52:55,174 - INFO - index - education label
+2021-07-24 23:52:55,234 - INFO - index - model loaded
+2021-07-24 23:52:55,234 - INFO - index - array created
+2021-07-24 23:52:55,249 - INFO - index - prediction  done
+2021-07-24 23:52:55,249 - INFO - index - pass the prediction if else
+2021-07-24 23:52:55,250 - INFO - index - Returning the result html page
+2021-07-24 23:53:03,025 - INFO - index - Prediction page shown
+2021-07-24 23:53:03,025 - INFO - index - If passed
+2021-07-24 23:53:03,025 - INFO - index - enter inside try
+2021-07-24 23:53:03,025 - INFO - index - age
+2021-07-24 23:53:03,025 - INFO - index - workclass
+2021-07-24 23:53:03,026 - INFO - index - occupation
+2021-07-24 23:53:03,026 - INFO - index - sex
+2021-07-24 23:53:03,026 - INFO - index - hourse per week
+2021-07-24 23:53:03,026 - INFO - index - education label
+2021-07-24 23:53:03,081 - INFO - index - model loaded
+2021-07-24 23:53:03,081 - INFO - index - array created
+2021-07-24 23:53:03,094 - INFO - index - prediction  done
+2021-07-24 23:53:03,094 - INFO - index - pass the prediction if else
+2021-07-24 23:53:03,095 - INFO - index - Returning the result html page
+2021-07-24 23:55:21,796 - INFO - index - Prediction page shown
+2021-07-24 23:55:21,797 - INFO - index - If passed
+2021-07-24 23:55:21,797 - INFO - index - enter inside try
+2021-07-24 23:55:21,797 - INFO - index - age
+2021-07-24 23:55:21,797 - INFO - index - workclass
+2021-07-24 23:55:21,797 - INFO - index - occupation
+2021-07-24 23:55:21,797 - INFO - index - sex
+2021-07-24 23:55:21,797 - INFO - index - hourse per week
+2021-07-24 23:55:21,797 - INFO - index - education label
+2021-07-24 23:55:21,862 - INFO - index - model loaded
+2021-07-24 23:55:21,862 - INFO - index - array created
+2021-07-24 23:55:21,872 - INFO - index - prediction  done
+2021-07-24 23:55:21,872 - INFO - index - pass the prediction if else
+2021-07-24 23:55:21,873 - INFO - index - Returning the result html page
+2021-07-24 23:55:56,857 - INFO - index - Prediction page shown
+2021-07-24 23:55:56,858 - INFO - index - If passed
+2021-07-24 23:55:56,858 - INFO - index - enter inside try
+2021-07-24 23:55:56,858 - INFO - index - age
+2021-07-24 23:55:56,858 - INFO - index - workclass
+2021-07-24 23:55:56,858 - INFO - index - occupation
+2021-07-24 23:55:56,858 - INFO - index - sex
+2021-07-24 23:55:56,859 - INFO - index - hourse per week
+2021-07-24 23:55:56,859 - INFO - index - education label
+2021-07-24 23:55:56,909 - INFO - index - model loaded
+2021-07-24 23:55:56,909 - INFO - index - array created
+2021-07-24 23:55:56,922 - INFO - index - prediction  done
+2021-07-24 23:55:56,922 - INFO - index - pass the prediction if else
+2021-07-24 23:55:56,923 - INFO - index - Returning the result html page
+2021-07-24 23:56:32,739 - INFO - index - Prediction page shown
+2021-07-24 23:56:32,739 - INFO - index - If passed
+2021-07-24 23:56:32,739 - INFO - index - enter inside try
+2021-07-24 23:56:32,740 - INFO - index - age
+2021-07-24 23:56:32,740 - INFO - index - workclass
+2021-07-24 23:56:32,740 - INFO - index - occupation
+2021-07-24 23:56:32,740 - INFO - index - sex
+2021-07-24 23:56:32,740 - INFO - index - hourse per week
+2021-07-24 23:56:32,740 - INFO - index - education label
+2021-07-24 23:56:32,794 - INFO - index - model loaded
+2021-07-24 23:56:32,794 - INFO - index - array created
+2021-07-24 23:56:32,806 - INFO - index - prediction  done
+2021-07-24 23:56:32,806 - INFO - index - pass the prediction if else
+2021-07-24 23:56:32,807 - INFO - index - Returning the result html page
+2021-07-24 23:57:21,356 - INFO - index - Prediction page shown
+2021-07-24 23:57:21,356 - INFO - index - If passed
+2021-07-24 23:57:21,356 - INFO - index - enter inside try
+2021-07-24 23:57:21,356 - INFO - index - age
+2021-07-24 23:57:21,357 - INFO - index - workclass
+2021-07-24 23:57:21,357 - INFO - index - occupation
+2021-07-24 23:57:21,357 - INFO - index - sex
+2021-07-24 23:57:21,357 - INFO - index - hourse per week
+2021-07-24 23:57:21,357 - INFO - index - education label
+2021-07-24 23:57:21,424 - INFO - index - model loaded
+2021-07-24 23:57:21,424 - INFO - index - array created
+2021-07-24 23:57:21,438 - INFO - index - prediction  done
+2021-07-24 23:57:21,438 - INFO - index - pass the prediction if else
+2021-07-24 23:57:21,439 - INFO - index - Returning the result html page
+2021-07-25 00:01:09,765 - INFO - index - Prediction page shown
+2021-07-25 00:01:09,765 - INFO - index - If passed
+2021-07-25 00:01:09,765 - INFO - index - enter inside try
+2021-07-25 00:01:09,766 - INFO - index - age
+2021-07-25 00:01:09,766 - INFO - index - workclass
+2021-07-25 00:01:09,766 - INFO - index - occupation
+2021-07-25 00:01:09,766 - INFO - index - sex
+2021-07-25 00:01:09,766 - INFO - index - hourse per week
+2021-07-25 00:01:09,766 - INFO - index - education label
+2021-07-25 00:01:09,844 - INFO - index - model loaded
+2021-07-25 00:01:09,844 - INFO - index - array created
+2021-07-25 00:01:09,857 - INFO - index - prediction  done
+2021-07-25 00:01:09,857 - INFO - index - pass the prediction if else
+2021-07-25 00:01:09,857 - INFO - index - Returning the result html page
+2021-07-25 00:01:45,885 - INFO - index - Prediction page shown
+2021-07-25 00:01:45,885 - INFO - index - If passed
+2021-07-25 00:01:45,885 - INFO - index - enter inside try
+2021-07-25 00:01:45,886 - INFO - index - age
+2021-07-25 00:01:45,886 - INFO - index - workclass
+2021-07-25 00:01:45,886 - INFO - index - occupation
+2021-07-25 00:01:45,886 - INFO - index - sex
+2021-07-25 00:01:45,886 - INFO - index - hourse per week
+2021-07-25 00:01:45,886 - INFO - index - education label
+2021-07-25 00:01:45,947 - INFO - index - model loaded
+2021-07-25 00:01:45,947 - INFO - index - array created
+2021-07-25 00:01:45,958 - INFO - index - prediction  done
+2021-07-25 00:01:45,958 - INFO - index - pass the prediction if else
+2021-07-25 00:01:45,959 - INFO - index - Returning the result html page
+2021-07-25 00:03:37,251 - INFO - index - Prediction page shown
+2021-07-25 00:03:37,251 - INFO - index - If passed
+2021-07-25 00:03:37,252 - INFO - index - enter inside try
+2021-07-25 00:03:37,252 - INFO - index - age
+2021-07-25 00:03:37,252 - INFO - index - workclass
+2021-07-25 00:03:37,252 - INFO - index - occupation
+2021-07-25 00:03:37,253 - INFO - index - sex
+2021-07-25 00:03:37,253 - INFO - index - hourse per week
+2021-07-25 00:03:37,253 - INFO - index - education label
+2021-07-25 00:03:37,310 - INFO - index - model loaded
+2021-07-25 00:03:37,310 - INFO - index - array created
+2021-07-25 00:03:37,322 - INFO - index - prediction  done
+2021-07-25 00:03:37,322 - INFO - index - pass the prediction if else
+2021-07-25 00:03:37,323 - INFO - index - Returning the result html page
+2021-07-25 00:04:54,628 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 00:05:03,940 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 00:05:05,262 - INFO - index - Prediction page shown
+2021-07-25 00:05:05,263 - INFO - index - If passed
+2021-07-25 00:05:05,263 - INFO - index - enter inside try
+2021-07-25 00:05:05,263 - INFO - index - come to exception
+2021-07-25 00:05:17,463 - INFO - index - Prediction page shown
+2021-07-25 00:05:17,463 - INFO - index - If passed
+2021-07-25 00:05:17,463 - INFO - index - enter inside try
+2021-07-25 00:05:17,463 - INFO - index - age
+2021-07-25 00:05:17,463 - INFO - index - workclass
+2021-07-25 00:05:17,463 - INFO - index - occupation
+2021-07-25 00:05:17,464 - INFO - index - sex
+2021-07-25 00:05:17,464 - INFO - index - hourse per week
+2021-07-25 00:05:17,464 - INFO - index - education label
+2021-07-25 00:05:17,515 - INFO - index - model loaded
+2021-07-25 00:05:17,515 - INFO - index - array created
+2021-07-25 00:05:17,527 - INFO - index - prediction  done
+2021-07-25 00:05:17,527 - INFO - index - pass the prediction if else
+2021-07-25 00:05:17,527 - INFO - index - Returning the result html page
+2021-07-25 00:05:47,287 - INFO - index - Prediction page shown
+2021-07-25 00:05:47,287 - INFO - index - If passed
+2021-07-25 00:05:47,287 - INFO - index - enter inside try
+2021-07-25 00:05:47,288 - INFO - index - age
+2021-07-25 00:05:47,288 - INFO - index - workclass
+2021-07-25 00:05:47,288 - INFO - index - occupation
+2021-07-25 00:05:47,288 - INFO - index - sex
+2021-07-25 00:05:47,288 - INFO - index - hourse per week
+2021-07-25 00:05:47,288 - INFO - index - education label
+2021-07-25 00:05:47,343 - INFO - index - model loaded
+2021-07-25 00:05:47,343 - INFO - index - array created
+2021-07-25 00:05:47,354 - INFO - index - prediction  done
+2021-07-25 00:05:47,354 - INFO - index - pass the prediction if else
+2021-07-25 00:05:47,355 - INFO - index - Returning the result html page
+2021-07-25 11:12:00,591 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:12:15,699 - INFO - index - Prediction page shown
+2021-07-25 11:12:15,699 - INFO - index - If passed
+2021-07-25 11:12:15,699 - INFO - index - enter inside try
+2021-07-25 11:12:15,734 - INFO - index - age
+2021-07-25 11:12:15,735 - INFO - index - workclass
+2021-07-25 11:12:15,735 - INFO - index - occupation
+2021-07-25 11:12:15,735 - INFO - index - sex
+2021-07-25 11:12:15,735 - INFO - index - hourse per week
+2021-07-25 11:12:15,735 - INFO - index - education label
+2021-07-25 11:12:30,117 - INFO - index - model loaded
+2021-07-25 11:12:30,117 - INFO - index - array created
+2021-07-25 11:12:30,327 - INFO - index - prediction  done
+2021-07-25 11:12:30,327 - INFO - index - pass the prediction if else
+2021-07-25 11:12:30,328 - INFO - index - Returning the result html page
+2021-07-25 11:14:32,977 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:14:34,930 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:14:35,124 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:14:35,362 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:14:36,675 - INFO - index - Prediction page shown
+2021-07-25 11:14:36,675 - INFO - index - If passed
+2021-07-25 11:14:36,676 - INFO - index - enter inside try
+2021-07-25 11:14:36,676 - INFO - index - come to exception
+2021-07-25 11:17:38,217 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:17:57,100 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:17:58,502 - INFO - index - Prediction page shown
+2021-07-25 11:17:58,503 - INFO - index - If passed
+2021-07-25 11:17:58,503 - INFO - index - enter inside try
+2021-07-25 11:17:58,505 - INFO - index - come to exception
+2021-07-25 11:18:33,624 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:19:11,033 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:19:17,778 - INFO - index - Prediction page shown
+2021-07-25 11:19:17,778 - INFO - index - If passed
+2021-07-25 11:19:17,778 - INFO - index - enter inside try
+2021-07-25 11:19:17,779 - INFO - index - age
+2021-07-25 11:19:17,779 - INFO - index - workclass
+2021-07-25 11:19:17,779 - INFO - index - occupation
+2021-07-25 11:19:17,779 - INFO - index - sex
+2021-07-25 11:19:17,779 - INFO - index - hourse per week
+2021-07-25 11:19:17,779 - INFO - index - education label
+2021-07-25 11:19:18,896 - INFO - index - model loaded
+2021-07-25 11:19:18,896 - INFO - index - array created
+2021-07-25 11:19:18,908 - INFO - index - prediction  done
+2021-07-25 11:19:18,908 - INFO - index - pass the prediction if else
+2021-07-25 11:19:18,909 - INFO - index - Returning the result html page
+2021-07-25 11:25:55,749 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:34:21,883 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:34:22,721 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:34:31,873 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:34:32,697 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:34:33,001 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:34:33,196 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:39:08,955 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:39:15,184 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:39:16,223 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:39:21,594 - INFO - index - Prediction page shown
+2021-07-25 11:39:21,594 - INFO - index - If passed
+2021-07-25 11:39:21,594 - INFO - index - enter inside try
+2021-07-25 11:39:21,594 - INFO - index - age
+2021-07-25 11:39:21,595 - INFO - index - workclass
+2021-07-25 11:39:21,595 - INFO - index - occupation
+2021-07-25 11:39:21,595 - INFO - index - sex
+2021-07-25 11:39:21,595 - INFO - index - hourse per week
+2021-07-25 11:39:21,595 - INFO - index - education label
+2021-07-25 11:39:21,649 - INFO - index - model loaded
+2021-07-25 11:39:21,649 - INFO - index - array created
+2021-07-25 11:39:21,659 - INFO - index - prediction  done
+2021-07-25 11:39:21,659 - INFO - index - pass the prediction if else
+2021-07-25 11:39:21,660 - INFO - index - Returning the result html page
+2021-07-25 11:40:01,880 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:40:04,159 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:40:04,528 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:40:04,889 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:41:35,761 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:41:36,760 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:41:36,986 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:41:37,168 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:41:40,738 - INFO - index - Prediction page shown
+2021-07-25 11:41:40,738 - INFO - index - If passed
+2021-07-25 11:41:40,738 - INFO - index - enter inside try
+2021-07-25 11:41:40,739 - INFO - index - age
+2021-07-25 11:41:40,739 - INFO - index - workclass
+2021-07-25 11:41:40,739 - INFO - index - occupation
+2021-07-25 11:41:40,739 - INFO - index - sex
+2021-07-25 11:41:40,739 - INFO - index - hourse per week
+2021-07-25 11:41:40,739 - INFO - index - education label
+2021-07-25 11:41:40,791 - INFO - index - model loaded
+2021-07-25 11:41:40,792 - INFO - index - array created
+2021-07-25 11:41:40,804 - INFO - index - prediction  done
+2021-07-25 11:41:40,804 - INFO - index - pass the prediction if else
+2021-07-25 11:41:40,804 - INFO - index - Returning the result html page
+2021-07-25 11:42:11,447 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:12,328 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:13,797 - INFO - index - Prediction page shown
+2021-07-25 11:42:13,798 - INFO - index - If passed
+2021-07-25 11:42:13,798 - INFO - index - enter inside try
+2021-07-25 11:42:13,798 - INFO - index - come to exception
+2021-07-25 11:42:57,384 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:58,408 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:58,775 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:58,976 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:59,174 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:59,391 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:42:59,592 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:43:21,317 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:56,241 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:56,952 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:57,152 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:57,352 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:57,535 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:57,742 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:57,999 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:46:58,263 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:47:26,297 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:47:31,195 - INFO - index - Prediction page shown
+2021-07-25 11:47:31,195 - INFO - index - If passed
+2021-07-25 11:47:31,195 - INFO - index - enter inside try
+2021-07-25 11:47:31,197 - INFO - index - age
+2021-07-25 11:47:31,197 - INFO - index - workclass
+2021-07-25 11:47:31,198 - INFO - index - occupation
+2021-07-25 11:47:31,198 - INFO - index - sex
+2021-07-25 11:47:31,198 - INFO - index - hourse per week
+2021-07-25 11:47:31,198 - INFO - index - education label
+2021-07-25 11:47:32,335 - INFO - index - model loaded
+2021-07-25 11:47:32,336 - INFO - index - array created
+2021-07-25 11:47:32,351 - INFO - index - prediction  done
+2021-07-25 11:47:32,351 - INFO - index - pass the prediction if else
+2021-07-25 11:47:32,351 - INFO - index - Returning the result html page
+2021-07-25 11:58:37,280 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:58:39,127 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:58:39,715 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:59:37,976 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:59:38,709 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:59:38,902 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 11:59:39,079 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:00:20,504 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:00:54,694 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:01:06,255 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:01:18,798 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:01:19,454 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:01:19,670 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:26:58,162 - INFO - index - Prediction page shown
+2021-07-25 12:26:58,163 - INFO - index - If passed
+2021-07-25 12:26:58,163 - INFO - index - enter inside try
+2021-07-25 12:26:58,165 - INFO - index - come to exception
+2021-07-25 12:27:03,470 - INFO - index - Prediction page shown
+2021-07-25 12:27:03,470 - INFO - index - If passed
+2021-07-25 12:27:03,470 - INFO - index - enter inside try
+2021-07-25 12:27:03,471 - INFO - index - age
+2021-07-25 12:27:03,471 - INFO - index - workclass
+2021-07-25 12:27:03,471 - INFO - index - occupation
+2021-07-25 12:27:03,471 - INFO - index - sex
+2021-07-25 12:27:03,471 - INFO - index - hourse per week
+2021-07-25 12:27:03,471 - INFO - index - education label
+2021-07-25 12:27:04,618 - INFO - index - model loaded
+2021-07-25 12:27:04,618 - INFO - index - array created
+2021-07-25 12:27:04,629 - INFO - index - prediction  done
+2021-07-25 12:27:04,629 - INFO - index - pass the prediction if else
+2021-07-25 12:27:04,630 - INFO - index - Returning the result html page
+2021-07-25 12:33:24,878 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:33:30,909 - INFO - index - Prediction page shown
+2021-07-25 12:33:30,910 - INFO - index - If passed
+2021-07-25 12:33:30,910 - INFO - index - enter inside try
+2021-07-25 12:33:30,910 - INFO - index - come to exception
+2021-07-25 12:33:51,788 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:34:30,297 - INFO - index - Prediction page shown
+2021-07-25 12:34:30,298 - INFO - index - If passed
+2021-07-25 12:34:30,298 - INFO - index - enter inside try
+2021-07-25 12:34:30,298 - INFO - index - age
+2021-07-25 12:34:30,298 - INFO - index - workclass
+2021-07-25 12:34:30,298 - INFO - index - occupation
+2021-07-25 12:34:30,298 - INFO - index - sex
+2021-07-25 12:34:30,298 - INFO - index - hourse per week
+2021-07-25 12:34:30,298 - INFO - index - education label
+2021-07-25 12:34:30,358 - INFO - index - model loaded
+2021-07-25 12:34:30,358 - INFO - index - array created
+2021-07-25 12:34:30,370 - INFO - index - prediction  done
+2021-07-25 12:34:30,370 - INFO - index - pass the prediction if else
+2021-07-25 12:34:30,371 - INFO - index - Returning the result html page
+2021-07-25 12:34:56,604 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:36:04,869 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:36:22,933 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:38:45,252 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:38:47,052 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:40:19,188 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:40:29,339 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:40:52,290 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:46:06,523 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:46:07,236 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:46:07,571 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:49:02,339 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:49:35,187 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:49:46,958 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 12:49:57,067 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:03:49,962 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:04:04,281 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:04:04,936 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:04:17,354 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:04:46,377 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:07:40,048 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:07:40,713 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:10:52,007 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 13:10:55,595 - INFO - index - Prediction page shown
+2021-07-25 13:10:55,595 - INFO - index - If passed
+2021-07-25 13:10:55,595 - INFO - index - enter inside try
+2021-07-25 13:10:55,596 - INFO - index - age
+2021-07-25 13:10:55,596 - INFO - index - workclass
+2021-07-25 13:10:55,596 - INFO - index - occupation
+2021-07-25 13:10:55,596 - INFO - index - sex
+2021-07-25 13:10:55,596 - INFO - index - hourse per week
+2021-07-25 13:10:55,596 - INFO - index - education label
+2021-07-25 13:10:55,649 - INFO - index - model loaded
+2021-07-25 13:10:55,649 - INFO - index - array created
+2021-07-25 13:10:55,660 - INFO - index - prediction  done
+2021-07-25 13:10:55,661 - INFO - index - pass the prediction if else
+2021-07-25 13:10:55,661 - INFO - index - Returning the result html page
+2021-07-25 13:11:01,725 - INFO - index - Prediction page shown
+2021-07-25 13:11:01,725 - INFO - index - If passed
+2021-07-25 13:11:01,725 - INFO - index - enter inside try
+2021-07-25 13:11:01,725 - INFO - index - age
+2021-07-25 13:11:01,725 - INFO - index - workclass
+2021-07-25 13:11:01,725 - INFO - index - occupation
+2021-07-25 13:11:01,726 - INFO - index - sex
+2021-07-25 13:11:01,726 - INFO - index - hourse per week
+2021-07-25 13:11:01,726 - INFO - index - education label
+2021-07-25 13:11:01,782 - INFO - index - model loaded
+2021-07-25 13:11:01,782 - INFO - index - array created
+2021-07-25 13:11:01,796 - INFO - index - prediction  done
+2021-07-25 13:11:01,796 - INFO - index - pass the prediction if else
+2021-07-25 13:11:01,796 - INFO - index - Returning the result html page
+2021-07-25 13:11:06,939 - INFO - index - Prediction page shown
+2021-07-25 13:11:06,940 - INFO - index - If passed
+2021-07-25 13:11:06,940 - INFO - index - enter inside try
+2021-07-25 13:11:06,940 - INFO - index - age
+2021-07-25 13:11:06,940 - INFO - index - workclass
+2021-07-25 13:11:06,941 - INFO - index - occupation
+2021-07-25 13:11:06,941 - INFO - index - sex
+2021-07-25 13:11:06,941 - INFO - index - hourse per week
+2021-07-25 13:11:06,941 - INFO - index - education label
+2021-07-25 13:11:06,999 - INFO - index - model loaded
+2021-07-25 13:11:06,999 - INFO - index - array created
+2021-07-25 13:11:07,014 - INFO - index - prediction  done
+2021-07-25 13:11:07,014 - INFO - index - pass the prediction if else
+2021-07-25 13:11:07,015 - INFO - index - Returning the result html page
+2021-07-25 18:36:02,974 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 18:36:16,544 - INFO - index - Prediction page shown
+2021-07-25 18:36:16,544 - INFO - index - If passed
+2021-07-25 18:36:16,544 - INFO - index - enter inside try
+2021-07-25 18:36:16,588 - INFO - index - age
+2021-07-25 18:36:16,588 - INFO - index - workclass
+2021-07-25 18:36:16,588 - INFO - index - occupation
+2021-07-25 18:36:16,588 - INFO - index - sex
+2021-07-25 18:36:16,588 - INFO - index - hourse per week
+2021-07-25 18:36:16,589 - INFO - index - come to exception
+2021-07-25 18:37:39,045 - INFO - index - Prediction page shown
+2021-07-25 18:37:39,045 - INFO - index - If passed
+2021-07-25 18:37:39,045 - INFO - index - enter inside try
+2021-07-25 18:37:39,046 - INFO - index - age
+2021-07-25 18:37:39,046 - INFO - index - workclass
+2021-07-25 18:37:39,046 - INFO - index - occupation
+2021-07-25 18:37:39,046 - INFO - index - sex
+2021-07-25 18:37:39,046 - INFO - index - hourse per week
+2021-07-25 18:37:39,046 - INFO - index - come to exception
+2021-07-25 18:37:41,803 - INFO - index - Prediction page shown
+2021-07-25 18:37:41,803 - INFO - index - If passed
+2021-07-25 18:37:41,803 - INFO - index - enter inside try
+2021-07-25 18:37:41,804 - INFO - index - age
+2021-07-25 18:37:41,804 - INFO - index - workclass
+2021-07-25 18:37:41,824 - INFO - index - occupation
+2021-07-25 18:37:41,825 - INFO - index - sex
+2021-07-25 18:37:41,825 - INFO - index - hourse per week
+2021-07-25 18:37:41,825 - INFO - index - come to exception
+2021-07-25 18:46:27,327 - INFO - index - Prediction page shown
+2021-07-25 18:46:27,327 - INFO - index - If passed
+2021-07-25 18:46:27,327 - INFO - index - enter inside try
+2021-07-25 18:46:27,328 - INFO - index - age
+2021-07-25 18:46:27,328 - INFO - index - workclass
+2021-07-25 18:46:27,328 - INFO - index - occupation
+2021-07-25 18:46:27,328 - INFO - index - sex
+2021-07-25 18:46:27,328 - INFO - index - hourse per week
+2021-07-25 18:46:27,328 - INFO - index - come to exception
+2021-07-25 18:46:57,543 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 18:47:06,408 - INFO - index - Prediction page shown
+2021-07-25 18:47:06,408 - INFO - index - If passed
+2021-07-25 18:47:06,408 - INFO - index - enter inside try
+2021-07-25 18:47:06,410 - INFO - index - age
+2021-07-25 18:47:06,410 - INFO - index - workclass
+2021-07-25 18:47:06,410 - INFO - index - occupation
+2021-07-25 18:47:06,410 - INFO - index - sex
+2021-07-25 18:47:06,410 - INFO - index - hourse per week
+2021-07-25 18:47:06,411 - INFO - index - education label
+2021-07-25 18:47:16,729 - INFO - index - model loaded
+2021-07-25 18:47:16,730 - INFO - index - array created
+2021-07-25 18:47:16,941 - INFO - index - prediction  done
+2021-07-25 18:47:16,941 - INFO - index - pass the prediction if else
+2021-07-25 18:47:16,942 - INFO - index - Returning the result html page
+2021-07-25 18:47:28,071 - INFO - index - Prediction page shown
+2021-07-25 18:47:28,071 - INFO - index - If passed
+2021-07-25 18:47:28,071 - INFO - index - enter inside try
+2021-07-25 18:47:28,072 - INFO - index - age
+2021-07-25 18:47:28,072 - INFO - index - workclass
+2021-07-25 18:47:28,072 - INFO - index - occupation
+2021-07-25 18:47:28,072 - INFO - index - sex
+2021-07-25 18:47:28,072 - INFO - index - hourse per week
+2021-07-25 18:47:28,072 - INFO - index - education label
+2021-07-25 18:47:28,143 - INFO - index - model loaded
+2021-07-25 18:47:28,143 - INFO - index - array created
+2021-07-25 18:47:28,157 - INFO - index - prediction  done
+2021-07-25 18:47:28,157 - INFO - index - pass the prediction if else
+2021-07-25 18:47:28,157 - INFO - index - Returning the result html page
+2021-07-25 18:47:32,096 - INFO - index - Prediction page shown
+2021-07-25 18:47:32,096 - INFO - index - If passed
+2021-07-25 18:47:32,096 - INFO - index - enter inside try
+2021-07-25 18:47:32,096 - INFO - index - age
+2021-07-25 18:47:32,096 - INFO - index - workclass
+2021-07-25 18:47:32,096 - INFO - index - occupation
+2021-07-25 18:47:32,096 - INFO - index - sex
+2021-07-25 18:47:32,096 - INFO - index - hourse per week
+2021-07-25 18:47:32,097 - INFO - index - education label
+2021-07-25 18:47:32,165 - INFO - index - model loaded
+2021-07-25 18:47:32,165 - INFO - index - array created
+2021-07-25 18:47:32,181 - INFO - index - prediction  done
+2021-07-25 18:47:32,182 - INFO - index - pass the prediction if else
+2021-07-25 18:47:32,182 - INFO - index - Returning the result html page
+2021-07-25 18:47:36,310 - INFO - index - Prediction page shown
+2021-07-25 18:47:36,310 - INFO - index - If passed
+2021-07-25 18:47:36,310 - INFO - index - enter inside try
+2021-07-25 18:47:36,311 - INFO - index - age
+2021-07-25 18:47:36,311 - INFO - index - workclass
+2021-07-25 18:47:36,311 - INFO - index - occupation
+2021-07-25 18:47:36,311 - INFO - index - sex
+2021-07-25 18:47:36,311 - INFO - index - hourse per week
+2021-07-25 18:47:36,311 - INFO - index - education label
+2021-07-25 18:47:36,379 - INFO - index - model loaded
+2021-07-25 18:47:36,379 - INFO - index - array created
+2021-07-25 18:47:36,394 - INFO - index - prediction  done
+2021-07-25 18:47:36,394 - INFO - index - pass the prediction if else
+2021-07-25 18:47:36,395 - INFO - index - Returning the result html page
+2021-07-25 18:47:39,879 - INFO - index - Prediction page shown
+2021-07-25 18:47:39,879 - INFO - index - If passed
+2021-07-25 18:47:39,879 - INFO - index - enter inside try
+2021-07-25 18:47:39,880 - INFO - index - age
+2021-07-25 18:47:39,880 - INFO - index - workclass
+2021-07-25 18:47:39,880 - INFO - index - occupation
+2021-07-25 18:47:39,880 - INFO - index - sex
+2021-07-25 18:47:39,880 - INFO - index - hourse per week
+2021-07-25 18:47:39,880 - INFO - index - education label
+2021-07-25 18:47:39,937 - INFO - index - model loaded
+2021-07-25 18:47:39,937 - INFO - index - array created
+2021-07-25 18:47:39,952 - INFO - index - prediction  done
+2021-07-25 18:47:39,952 - INFO - index - pass the prediction if else
+2021-07-25 18:47:39,952 - INFO - index - Returning the result html page
+2021-07-25 18:49:09,757 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 18:49:15,650 - INFO - index - Prediction page shown
+2021-07-25 18:49:15,650 - INFO - index - If passed
+2021-07-25 18:49:15,650 - INFO - index - enter inside try
+2021-07-25 18:49:15,653 - INFO - index - age
+2021-07-25 18:49:15,653 - INFO - index - workclass
+2021-07-25 18:49:15,653 - INFO - index - occupation
+2021-07-25 18:49:15,653 - INFO - index - sex
+2021-07-25 18:49:15,653 - INFO - index - hourse per week
+2021-07-25 18:49:15,653 - INFO - index - education label
+2021-07-25 18:49:16,726 - INFO - index - model loaded
+2021-07-25 18:49:16,726 - INFO - index - array created
+2021-07-25 18:49:16,742 - INFO - index - prediction  done
+2021-07-25 18:49:16,742 - INFO - index - pass the prediction if else
+2021-07-25 18:49:16,742 - INFO - index - Returning the result html page
+2021-07-25 18:49:19,952 - INFO - index - Prediction page shown
+2021-07-25 18:49:19,953 - INFO - index - If passed
+2021-07-25 18:49:19,953 - INFO - index - enter inside try
+2021-07-25 18:49:19,953 - INFO - index - age
+2021-07-25 18:49:19,954 - INFO - index - workclass
+2021-07-25 18:49:19,954 - INFO - index - occupation
+2021-07-25 18:49:19,954 - INFO - index - sex
+2021-07-25 18:49:19,954 - INFO - index - hourse per week
+2021-07-25 18:49:19,954 - INFO - index - education label
+2021-07-25 18:49:20,012 - INFO - index - model loaded
+2021-07-25 18:49:20,012 - INFO - index - array created
+2021-07-25 18:49:20,027 - INFO - index - prediction  done
+2021-07-25 18:49:20,027 - INFO - index - pass the prediction if else
+2021-07-25 18:49:20,028 - INFO - index - Returning the result html page
+2021-07-25 18:52:02,632 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 18:54:17,865 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 18:54:25,720 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:14:53,881 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:15:08,064 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:15:20,743 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:15:27,927 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:15:38,709 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:16:22,486 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:16:37,567 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:19:30,320 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:19:54,144 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:20:00,230 - INFO - index - Prediction page shown
+2021-07-25 19:20:00,231 - INFO - index - If passed
+2021-07-25 19:20:00,231 - INFO - index - enter inside try
+2021-07-25 19:20:00,231 - INFO - index - age
+2021-07-25 19:20:00,231 - INFO - index - workclass
+2021-07-25 19:20:00,231 - INFO - index - occupation
+2021-07-25 19:20:00,231 - INFO - index - sex
+2021-07-25 19:20:00,232 - INFO - index - hourse per week
+2021-07-25 19:20:00,232 - INFO - index - education label
+2021-07-25 19:20:00,346 - INFO - index - model loaded
+2021-07-25 19:20:00,346 - INFO - index - array created
+2021-07-25 19:20:00,360 - INFO - index - prediction  done
+2021-07-25 19:20:00,360 - INFO - index - pass the prediction if else
+2021-07-25 19:20:00,360 - INFO - index - Returning the result html page
+2021-07-25 19:22:22,723 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:27:53,884 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:27:58,712 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:28:20,474 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:28:21,745 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:29:36,107 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:29:42,186 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:31:26,091 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:31:46,962 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:31:47,916 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:31:55,195 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:32:01,371 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:32:02,204 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:32:02,443 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:33:34,779 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:33:53,134 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:33:59,309 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:34:14,501 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:34:21,619 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:34:32,332 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:34:40,341 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:34:50,533 - INFO - index - Prediction page shown
+2021-07-25 19:34:50,533 - INFO - index - If passed
+2021-07-25 19:34:50,533 - INFO - index - enter inside try
+2021-07-25 19:34:50,565 - INFO - index - age
+2021-07-25 19:34:50,565 - INFO - index - workclass
+2021-07-25 19:34:50,565 - INFO - index - occupation
+2021-07-25 19:34:50,565 - INFO - index - sex
+2021-07-25 19:34:50,565 - INFO - index - hourse per week
+2021-07-25 19:34:50,565 - INFO - index - education label
+2021-07-25 19:35:01,908 - INFO - index - model loaded
+2021-07-25 19:35:01,908 - INFO - index - array created
+2021-07-25 19:35:01,921 - INFO - index - prediction  done
+2021-07-25 19:35:01,921 - INFO - index - pass the prediction if else
+2021-07-25 19:35:01,922 - INFO - index - Returning the result html page
+2021-07-25 19:35:28,325 - INFO - index - Prediction page shown
+2021-07-25 19:35:28,326 - INFO - index - If passed
+2021-07-25 19:35:28,326 - INFO - index - enter inside try
+2021-07-25 19:35:28,326 - INFO - index - age
+2021-07-25 19:35:28,326 - INFO - index - workclass
+2021-07-25 19:35:28,326 - INFO - index - occupation
+2021-07-25 19:35:28,326 - INFO - index - sex
+2021-07-25 19:35:28,326 - INFO - index - hourse per week
+2021-07-25 19:35:28,326 - INFO - index - education label
+2021-07-25 19:35:28,384 - INFO - index - model loaded
+2021-07-25 19:35:28,384 - INFO - index - array created
+2021-07-25 19:35:28,399 - INFO - index - prediction  done
+2021-07-25 19:35:28,399 - INFO - index - pass the prediction if else
+2021-07-25 19:35:28,400 - INFO - index - Returning the result html page
+2021-07-25 19:40:34,422 - INFO - index - Prediction page shown
+2021-07-25 19:40:34,423 - INFO - index - If passed
+2021-07-25 19:40:34,423 - INFO - index - enter inside try
+2021-07-25 19:40:34,423 - INFO - index - age
+2021-07-25 19:40:34,423 - INFO - index - workclass
+2021-07-25 19:40:34,423 - INFO - index - occupation
+2021-07-25 19:40:34,424 - INFO - index - sex
+2021-07-25 19:40:34,424 - INFO - index - hourse per week
+2021-07-25 19:40:34,424 - INFO - index - education label
+2021-07-25 19:40:34,485 - INFO - index - model loaded
+2021-07-25 19:40:34,485 - INFO - index - array created
+2021-07-25 19:40:34,499 - INFO - index - prediction  done
+2021-07-25 19:40:34,499 - INFO - index - pass the prediction if else
+2021-07-25 19:40:34,499 - INFO - index - Returning the result html page
+2021-07-25 19:40:38,284 - INFO - index - Prediction page shown
+2021-07-25 19:40:38,284 - INFO - index - If passed
+2021-07-25 19:40:38,284 - INFO - index - enter inside try
+2021-07-25 19:40:38,285 - INFO - index - age
+2021-07-25 19:40:38,285 - INFO - index - workclass
+2021-07-25 19:40:38,285 - INFO - index - occupation
+2021-07-25 19:40:38,285 - INFO - index - sex
+2021-07-25 19:40:38,285 - INFO - index - hourse per week
+2021-07-25 19:40:38,285 - INFO - index - education label
+2021-07-25 19:40:38,345 - INFO - index - model loaded
+2021-07-25 19:40:38,345 - INFO - index - array created
+2021-07-25 19:40:38,358 - INFO - index - prediction  done
+2021-07-25 19:40:38,358 - INFO - index - pass the prediction if else
+2021-07-25 19:40:38,359 - INFO - index - Returning the result html page
+2021-07-25 19:40:58,989 - INFO - index - Prediction page shown
+2021-07-25 19:40:58,990 - INFO - index - If passed
+2021-07-25 19:40:58,990 - INFO - index - enter inside try
+2021-07-25 19:40:58,990 - INFO - index - age
+2021-07-25 19:40:58,991 - INFO - index - workclass
+2021-07-25 19:40:58,991 - INFO - index - occupation
+2021-07-25 19:40:58,991 - INFO - index - sex
+2021-07-25 19:40:58,991 - INFO - index - hourse per week
+2021-07-25 19:40:58,991 - INFO - index - education label
+2021-07-25 19:40:59,055 - INFO - index - model loaded
+2021-07-25 19:40:59,055 - INFO - index - array created
+2021-07-25 19:40:59,069 - INFO - index - prediction  done
+2021-07-25 19:40:59,069 - INFO - index - pass the prediction if else
+2021-07-25 19:40:59,070 - INFO - index - Returning the result html page
+2021-07-25 19:41:00,992 - INFO - index - Prediction page shown
+2021-07-25 19:41:00,992 - INFO - index - If passed
+2021-07-25 19:41:00,993 - INFO - index - enter inside try
+2021-07-25 19:41:00,993 - INFO - index - age
+2021-07-25 19:41:00,993 - INFO - index - workclass
+2021-07-25 19:41:00,993 - INFO - index - occupation
+2021-07-25 19:41:00,993 - INFO - index - sex
+2021-07-25 19:41:00,993 - INFO - index - hourse per week
+2021-07-25 19:41:00,993 - INFO - index - education label
+2021-07-25 19:41:01,047 - INFO - index - model loaded
+2021-07-25 19:41:01,047 - INFO - index - array created
+2021-07-25 19:41:01,060 - INFO - index - prediction  done
+2021-07-25 19:41:01,061 - INFO - index - pass the prediction if else
+2021-07-25 19:41:01,061 - INFO - index - Returning the result html page
+2021-07-25 19:41:13,304 - INFO - index - Prediction page shown
+2021-07-25 19:41:13,304 - INFO - index - If passed
+2021-07-25 19:41:13,304 - INFO - index - enter inside try
+2021-07-25 19:41:13,305 - INFO - index - age
+2021-07-25 19:41:13,305 - INFO - index - workclass
+2021-07-25 19:41:13,305 - INFO - index - occupation
+2021-07-25 19:41:13,305 - INFO - index - sex
+2021-07-25 19:41:13,305 - INFO - index - hourse per week
+2021-07-25 19:41:13,305 - INFO - index - education label
+2021-07-25 19:41:13,388 - INFO - index - model loaded
+2021-07-25 19:41:13,388 - INFO - index - array created
+2021-07-25 19:41:13,400 - INFO - index - prediction  done
+2021-07-25 19:41:13,400 - INFO - index - pass the prediction if else
+2021-07-25 19:41:13,400 - INFO - index - Returning the result html page
+2021-07-25 19:42:24,143 - INFO - index - Prediction page shown
+2021-07-25 19:42:24,143 - INFO - index - If passed
+2021-07-25 19:42:24,143 - INFO - index - enter inside try
+2021-07-25 19:42:24,143 - INFO - index - age
+2021-07-25 19:42:24,144 - INFO - index - workclass
+2021-07-25 19:42:24,144 - INFO - index - occupation
+2021-07-25 19:42:24,144 - INFO - index - sex
+2021-07-25 19:42:24,144 - INFO - index - hourse per week
+2021-07-25 19:42:24,144 - INFO - index - education label
+2021-07-25 19:42:24,201 - INFO - index - model loaded
+2021-07-25 19:42:24,201 - INFO - index - array created
+2021-07-25 19:42:24,216 - INFO - index - prediction  done
+2021-07-25 19:42:24,216 - INFO - index - pass the prediction if else
+2021-07-25 19:42:24,217 - INFO - index - Returning the result html page
+2021-07-25 19:43:17,086 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:43:51,101 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:44:01,441 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:44:13,618 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:44:41,280 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:44:53,975 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:45:14,111 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:46:01,220 - INFO - index - Prediction page shown
+2021-07-25 19:46:01,220 - INFO - index - If passed
+2021-07-25 19:46:01,220 - INFO - index - enter inside try
+2021-07-25 19:46:01,222 - INFO - index - come to exception
+2021-07-25 19:48:17,641 - INFO - index - Prediction page shown
+2021-07-25 19:48:17,641 - INFO - index - If passed
+2021-07-25 19:48:17,641 - INFO - index - enter inside try
+2021-07-25 19:48:17,642 - INFO - index - age
+2021-07-25 19:48:17,642 - INFO - index - workclass
+2021-07-25 19:48:17,642 - INFO - index - occupation
+2021-07-25 19:48:17,642 - INFO - index - sex
+2021-07-25 19:48:17,642 - INFO - index - hourse per week
+2021-07-25 19:48:17,642 - INFO - index - education label
+2021-07-25 19:48:18,934 - INFO - index - model loaded
+2021-07-25 19:48:18,934 - INFO - index - array created
+2021-07-25 19:48:18,949 - INFO - index - prediction  done
+2021-07-25 19:48:18,949 - INFO - index - pass the prediction if else
+2021-07-25 19:48:18,950 - INFO - index - Returning the result html page
+2021-07-25 19:48:48,615 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:48:53,884 - INFO - index - Prediction page shown
+2021-07-25 19:48:53,884 - INFO - index - If passed
+2021-07-25 19:48:53,884 - INFO - index - enter inside try
+2021-07-25 19:48:53,887 - INFO - index - age
+2021-07-25 19:48:53,887 - INFO - index - workclass
+2021-07-25 19:48:53,887 - INFO - index - occupation
+2021-07-25 19:48:53,887 - INFO - index - sex
+2021-07-25 19:48:53,887 - INFO - index - hourse per week
+2021-07-25 19:48:53,887 - INFO - index - education label
+2021-07-25 19:48:53,887 - INFO - index - model loaded
+2021-07-25 19:48:53,887 - INFO - index - array created
+2021-07-25 19:48:53,899 - INFO - index - prediction  done
+2021-07-25 19:48:53,899 - INFO - index - pass the prediction if else
+2021-07-25 19:48:53,900 - INFO - index - Returning the result html page
+2021-07-25 19:51:45,331 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:51:59,443 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:52:05,982 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:52:50,065 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:53:00,945 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:53:09,426 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:53:29,249 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:53:37,595 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:53:48,922 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:54:07,955 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:54:09,113 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:54:15,204 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 19:55:08,604 - INFO - index - Prediction page shown
+2021-07-25 19:55:08,605 - INFO - index - If passed
+2021-07-25 19:55:08,605 - INFO - index - enter inside try
+2021-07-25 19:55:08,605 - INFO - index - age
+2021-07-25 19:55:08,605 - INFO - index - workclass
+2021-07-25 19:55:08,605 - INFO - index - occupation
+2021-07-25 19:55:08,605 - INFO - index - sex
+2021-07-25 19:55:08,606 - INFO - index - hourse per week
+2021-07-25 19:55:08,606 - INFO - index - education label
+2021-07-25 19:55:08,606 - INFO - index - model loaded
+2021-07-25 19:55:08,606 - INFO - index - array created
+2021-07-25 19:55:08,617 - INFO - index - prediction  done
+2021-07-25 19:55:08,617 - INFO - index - pass the prediction if else
+2021-07-25 19:55:08,617 - INFO - index - Returning the result html page
+2021-07-25 19:55:13,421 - INFO - index - Prediction page shown
+2021-07-25 19:55:13,421 - INFO - index - If passed
+2021-07-25 19:55:13,421 - INFO - index - enter inside try
+2021-07-25 19:55:13,422 - INFO - index - age
+2021-07-25 19:55:13,422 - INFO - index - workclass
+2021-07-25 19:55:13,422 - INFO - index - occupation
+2021-07-25 19:55:13,422 - INFO - index - sex
+2021-07-25 19:55:13,422 - INFO - index - hourse per week
+2021-07-25 19:55:13,422 - INFO - index - education label
+2021-07-25 19:55:13,422 - INFO - index - model loaded
+2021-07-25 19:55:13,422 - INFO - index - array created
+2021-07-25 19:55:13,433 - INFO - index - prediction  done
+2021-07-25 19:55:13,434 - INFO - index - pass the prediction if else
+2021-07-25 19:55:13,434 - INFO - index - Returning the result html page
+2021-07-25 19:55:17,483 - INFO - index - Prediction page shown
+2021-07-25 19:55:17,483 - INFO - index - If passed
+2021-07-25 19:55:17,484 - INFO - index - enter inside try
+2021-07-25 19:55:17,484 - INFO - index - age
+2021-07-25 19:55:17,484 - INFO - index - workclass
+2021-07-25 19:55:17,484 - INFO - index - occupation
+2021-07-25 19:55:17,484 - INFO - index - sex
+2021-07-25 19:55:17,484 - INFO - index - hourse per week
+2021-07-25 19:55:17,484 - INFO - index - education label
+2021-07-25 19:55:17,484 - INFO - index - model loaded
+2021-07-25 19:55:17,484 - INFO - index - array created
+2021-07-25 19:55:17,500 - INFO - index - prediction  done
+2021-07-25 19:55:17,501 - INFO - index - pass the prediction if else
+2021-07-25 19:55:17,501 - INFO - index - Returning the result html page
+2021-07-25 20:14:31,753 - INFO - index - Prediction page shown
+2021-07-25 20:14:31,753 - INFO - index - If passed
+2021-07-25 20:14:31,753 - INFO - index - enter inside try
+2021-07-25 20:14:31,753 - INFO - index - age
+2021-07-25 20:14:31,753 - INFO - index - workclass
+2021-07-25 20:14:31,753 - INFO - index - occupation
+2021-07-25 20:14:31,753 - INFO - index - sex
+2021-07-25 20:14:31,754 - INFO - index - hourse per week
+2021-07-25 20:14:31,754 - INFO - index - education label
+2021-07-25 20:14:31,754 - INFO - index - model loaded
+2021-07-25 20:14:31,754 - INFO - index - array created
+2021-07-25 20:14:31,939 - INFO - index - prediction  done
+2021-07-25 20:14:31,939 - INFO - index - pass the prediction if else
+2021-07-25 20:14:31,940 - INFO - index - Returning the result html page
+2021-07-25 20:15:07,343 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:20:14,268 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:20:30,960 - INFO - index - Prediction page shown
+2021-07-25 20:20:30,960 - INFO - index - If passed
+2021-07-25 20:20:30,960 - INFO - index - enter inside try
+2021-07-25 20:20:30,960 - INFO - index - come to exception
+2021-07-25 20:20:44,500 - INFO - index - Prediction page shown
+2021-07-25 20:20:44,500 - INFO - index - If passed
+2021-07-25 20:20:44,500 - INFO - index - enter inside try
+2021-07-25 20:20:44,501 - INFO - index - age
+2021-07-25 20:20:44,501 - INFO - index - workclass
+2021-07-25 20:20:44,501 - INFO - index - occupation
+2021-07-25 20:20:44,501 - INFO - index - sex
+2021-07-25 20:20:44,501 - INFO - index - hourse per week
+2021-07-25 20:20:44,501 - INFO - index - education label
+2021-07-25 20:20:44,501 - INFO - index - model loaded
+2021-07-25 20:20:44,501 - INFO - index - array created
+2021-07-25 20:20:44,513 - INFO - index - prediction  done
+2021-07-25 20:20:44,513 - INFO - index - pass the prediction if else
+2021-07-25 20:20:44,514 - INFO - index - Returning the result html page
+2021-07-25 20:21:31,161 - INFO - index - Prediction page shown
+2021-07-25 20:21:31,161 - INFO - index - If passed
+2021-07-25 20:21:31,161 - INFO - index - enter inside try
+2021-07-25 20:21:31,161 - INFO - index - age
+2021-07-25 20:21:31,161 - INFO - index - workclass
+2021-07-25 20:21:31,161 - INFO - index - occupation
+2021-07-25 20:21:31,161 - INFO - index - sex
+2021-07-25 20:21:31,161 - INFO - index - hourse per week
+2021-07-25 20:21:31,162 - INFO - index - education label
+2021-07-25 20:21:31,162 - INFO - index - model loaded
+2021-07-25 20:21:31,162 - INFO - index - array created
+2021-07-25 20:21:31,175 - INFO - index - prediction  done
+2021-07-25 20:21:31,175 - INFO - index - pass the prediction if else
+2021-07-25 20:21:31,176 - INFO - index - Returning the result html page
+2021-07-25 20:22:16,542 - INFO - index - Prediction page shown
+2021-07-25 20:22:16,542 - INFO - index - If passed
+2021-07-25 20:22:16,542 - INFO - index - enter inside try
+2021-07-25 20:22:16,543 - INFO - index - age
+2021-07-25 20:22:16,543 - INFO - index - workclass
+2021-07-25 20:22:16,543 - INFO - index - occupation
+2021-07-25 20:22:16,543 - INFO - index - sex
+2021-07-25 20:22:16,544 - INFO - index - hourse per week
+2021-07-25 20:22:16,544 - INFO - index - education label
+2021-07-25 20:22:16,544 - INFO - index - model loaded
+2021-07-25 20:22:16,544 - INFO - index - array created
+2021-07-25 20:22:16,563 - INFO - index - prediction  done
+2021-07-25 20:22:16,564 - INFO - index - pass the prediction if else
+2021-07-25 20:22:16,565 - INFO - index - Returning the result html page
+2021-07-25 20:23:04,483 - INFO - index - Prediction page shown
+2021-07-25 20:23:04,483 - INFO - index - If passed
+2021-07-25 20:23:04,483 - INFO - index - enter inside try
+2021-07-25 20:23:04,484 - INFO - index - age
+2021-07-25 20:23:04,484 - INFO - index - workclass
+2021-07-25 20:23:04,484 - INFO - index - occupation
+2021-07-25 20:23:04,484 - INFO - index - sex
+2021-07-25 20:23:04,484 - INFO - index - hourse per week
+2021-07-25 20:23:04,484 - INFO - index - education label
+2021-07-25 20:23:04,484 - INFO - index - model loaded
+2021-07-25 20:23:04,484 - INFO - index - array created
+2021-07-25 20:23:04,496 - INFO - index - prediction  done
+2021-07-25 20:23:04,496 - INFO - index - pass the prediction if else
+2021-07-25 20:23:04,496 - INFO - index - Returning the result html page
+2021-07-25 20:24:12,378 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:25:01,395 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:25:09,601 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:25:18,968 - INFO - index - Prediction page shown
+2021-07-25 20:25:18,968 - INFO - index - If passed
+2021-07-25 20:25:18,968 - INFO - index - enter inside try
+2021-07-25 20:25:18,969 - INFO - index - come to exception
+2021-07-25 20:25:24,157 - INFO - index - Prediction page shown
+2021-07-25 20:25:24,157 - INFO - index - If passed
+2021-07-25 20:25:24,157 - INFO - index - enter inside try
+2021-07-25 20:25:24,157 - INFO - index - age
+2021-07-25 20:25:24,157 - INFO - index - workclass
+2021-07-25 20:25:24,158 - INFO - index - occupation
+2021-07-25 20:25:24,158 - INFO - index - sex
+2021-07-25 20:25:24,158 - INFO - index - hourse per week
+2021-07-25 20:25:24,158 - INFO - index - education label
+2021-07-25 20:25:24,158 - INFO - index - model loaded
+2021-07-25 20:25:24,158 - INFO - index - array created
+2021-07-25 20:25:24,169 - INFO - index - prediction  done
+2021-07-25 20:25:24,169 - INFO - index - pass the prediction if else
+2021-07-25 20:25:24,170 - INFO - index - Returning the result html page
+2021-07-25 20:25:39,179 - INFO - index - Prediction page shown
+2021-07-25 20:25:39,180 - INFO - index - If passed
+2021-07-25 20:25:39,180 - INFO - index - enter inside try
+2021-07-25 20:25:39,180 - INFO - index - age
+2021-07-25 20:25:39,180 - INFO - index - workclass
+2021-07-25 20:25:39,180 - INFO - index - occupation
+2021-07-25 20:25:39,180 - INFO - index - sex
+2021-07-25 20:25:39,181 - INFO - index - hourse per week
+2021-07-25 20:25:39,181 - INFO - index - education label
+2021-07-25 20:25:39,181 - INFO - index - model loaded
+2021-07-25 20:25:39,181 - INFO - index - array created
+2021-07-25 20:25:39,192 - INFO - index - prediction  done
+2021-07-25 20:25:39,192 - INFO - index - pass the prediction if else
+2021-07-25 20:25:39,192 - INFO - index - Returning the result html page
+2021-07-25 20:25:41,922 - INFO - index - Prediction page shown
+2021-07-25 20:25:41,923 - INFO - index - If passed
+2021-07-25 20:25:41,923 - INFO - index - enter inside try
+2021-07-25 20:25:41,923 - INFO - index - age
+2021-07-25 20:25:41,923 - INFO - index - workclass
+2021-07-25 20:25:41,923 - INFO - index - occupation
+2021-07-25 20:25:41,923 - INFO - index - sex
+2021-07-25 20:25:41,923 - INFO - index - hourse per week
+2021-07-25 20:25:41,923 - INFO - index - education label
+2021-07-25 20:25:41,923 - INFO - index - model loaded
+2021-07-25 20:25:41,924 - INFO - index - array created
+2021-07-25 20:25:41,936 - INFO - index - prediction  done
+2021-07-25 20:25:41,936 - INFO - index - pass the prediction if else
+2021-07-25 20:25:41,937 - INFO - index - Returning the result html page
+2021-07-25 20:25:44,727 - INFO - index - Prediction page shown
+2021-07-25 20:25:44,727 - INFO - index - If passed
+2021-07-25 20:25:44,727 - INFO - index - enter inside try
+2021-07-25 20:25:44,728 - INFO - index - age
+2021-07-25 20:25:44,728 - INFO - index - workclass
+2021-07-25 20:25:44,728 - INFO - index - occupation
+2021-07-25 20:25:44,728 - INFO - index - sex
+2021-07-25 20:25:44,728 - INFO - index - hourse per week
+2021-07-25 20:25:44,728 - INFO - index - education label
+2021-07-25 20:25:44,728 - INFO - index - model loaded
+2021-07-25 20:25:44,728 - INFO - index - array created
+2021-07-25 20:25:44,739 - INFO - index - prediction  done
+2021-07-25 20:25:44,739 - INFO - index - pass the prediction if else
+2021-07-25 20:25:44,740 - INFO - index - Returning the result html page
+2021-07-25 20:28:04,406 - INFO - index - Prediction page shown
+2021-07-25 20:28:04,406 - INFO - index - If passed
+2021-07-25 20:28:04,406 - INFO - index - enter inside try
+2021-07-25 20:28:04,407 - INFO - index - age
+2021-07-25 20:28:04,407 - INFO - index - workclass
+2021-07-25 20:28:04,407 - INFO - index - occupation
+2021-07-25 20:28:04,407 - INFO - index - sex
+2021-07-25 20:28:04,407 - INFO - index - hourse per week
+2021-07-25 20:28:04,407 - INFO - index - education label
+2021-07-25 20:28:04,407 - INFO - index - model loaded
+2021-07-25 20:28:04,408 - INFO - index - array created
+2021-07-25 20:28:04,419 - INFO - index - prediction  done
+2021-07-25 20:28:04,419 - INFO - index - pass the prediction if else
+2021-07-25 20:28:04,420 - INFO - index - Returning the result html page
+2021-07-25 20:28:16,542 - INFO - index - Prediction page shown
+2021-07-25 20:28:16,542 - INFO - index - If passed
+2021-07-25 20:28:16,542 - INFO - index - enter inside try
+2021-07-25 20:28:16,543 - INFO - index - age
+2021-07-25 20:28:16,543 - INFO - index - workclass
+2021-07-25 20:28:16,543 - INFO - index - occupation
+2021-07-25 20:28:16,543 - INFO - index - sex
+2021-07-25 20:28:16,543 - INFO - index - hourse per week
+2021-07-25 20:28:16,543 - INFO - index - education label
+2021-07-25 20:28:16,543 - INFO - index - model loaded
+2021-07-25 20:28:16,543 - INFO - index - array created
+2021-07-25 20:28:16,554 - INFO - index - prediction  done
+2021-07-25 20:28:16,554 - INFO - index - pass the prediction if else
+2021-07-25 20:28:16,554 - INFO - index - Returning the result html page
+2021-07-25 20:29:15,644 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:29:53,207 - INFO - index - Prediction page shown
+2021-07-25 20:29:53,207 - INFO - index - If passed
+2021-07-25 20:29:53,207 - INFO - index - enter inside try
+2021-07-25 20:29:53,254 - INFO - index - age
+2021-07-25 20:29:53,254 - INFO - index - workclass
+2021-07-25 20:29:53,254 - INFO - index - occupation
+2021-07-25 20:29:53,254 - INFO - index - sex
+2021-07-25 20:29:53,254 - INFO - index - hourse per week
+2021-07-25 20:29:53,255 - INFO - index - education label
+2021-07-25 20:29:53,255 - INFO - index - model loaded
+2021-07-25 20:29:53,255 - INFO - index - array created
+2021-07-25 20:29:53,267 - INFO - index - prediction  done
+2021-07-25 20:29:53,267 - INFO - index - pass the prediction if else
+2021-07-25 20:29:53,268 - INFO - index - Returning the result html page
+2021-07-25 20:30:43,346 - INFO - index - Prediction page shown
+2021-07-25 20:30:43,346 - INFO - index - If passed
+2021-07-25 20:30:43,346 - INFO - index - enter inside try
+2021-07-25 20:30:43,348 - INFO - index - age
+2021-07-25 20:30:43,348 - INFO - index - workclass
+2021-07-25 20:30:43,348 - INFO - index - occupation
+2021-07-25 20:30:43,348 - INFO - index - sex
+2021-07-25 20:30:43,348 - INFO - index - hourse per week
+2021-07-25 20:30:43,348 - INFO - index - education label
+2021-07-25 20:30:43,349 - INFO - index - model loaded
+2021-07-25 20:30:43,349 - INFO - index - array created
+2021-07-25 20:30:43,361 - INFO - index - prediction  done
+2021-07-25 20:30:43,361 - INFO - index - pass the prediction if else
+2021-07-25 20:30:43,361 - INFO - index - Returning the result html page
+2021-07-25 20:30:46,445 - INFO - index - Prediction page shown
+2021-07-25 20:30:46,445 - INFO - index - If passed
+2021-07-25 20:30:46,445 - INFO - index - enter inside try
+2021-07-25 20:30:46,446 - INFO - index - age
+2021-07-25 20:30:46,446 - INFO - index - workclass
+2021-07-25 20:30:46,446 - INFO - index - occupation
+2021-07-25 20:30:46,446 - INFO - index - sex
+2021-07-25 20:30:46,446 - INFO - index - hourse per week
+2021-07-25 20:30:46,446 - INFO - index - education label
+2021-07-25 20:30:46,446 - INFO - index - model loaded
+2021-07-25 20:30:46,446 - INFO - index - array created
+2021-07-25 20:30:46,457 - INFO - index - prediction  done
+2021-07-25 20:30:46,457 - INFO - index - pass the prediction if else
+2021-07-25 20:30:46,458 - INFO - index - Returning the result html page
+2021-07-25 20:30:54,143 - INFO - index - Prediction page shown
+2021-07-25 20:30:54,144 - INFO - index - If passed
+2021-07-25 20:30:54,144 - INFO - index - enter inside try
+2021-07-25 20:30:54,144 - INFO - index - age
+2021-07-25 20:30:54,144 - INFO - index - workclass
+2021-07-25 20:30:54,145 - INFO - index - occupation
+2021-07-25 20:30:54,145 - INFO - index - sex
+2021-07-25 20:30:54,145 - INFO - index - hourse per week
+2021-07-25 20:30:54,145 - INFO - index - education label
+2021-07-25 20:30:54,145 - INFO - index - model loaded
+2021-07-25 20:30:54,145 - INFO - index - array created
+2021-07-25 20:30:54,155 - INFO - index - prediction  done
+2021-07-25 20:30:54,155 - INFO - index - pass the prediction if else
+2021-07-25 20:30:54,156 - INFO - index - Returning the result html page
+2021-07-25 20:31:11,573 - INFO - index - Prediction page shown
+2021-07-25 20:31:11,573 - INFO - index - If passed
+2021-07-25 20:31:11,573 - INFO - index - enter inside try
+2021-07-25 20:31:11,575 - INFO - index - age
+2021-07-25 20:31:11,575 - INFO - index - workclass
+2021-07-25 20:31:11,575 - INFO - index - occupation
+2021-07-25 20:31:11,576 - INFO - index - sex
+2021-07-25 20:31:11,576 - INFO - index - hourse per week
+2021-07-25 20:31:11,576 - INFO - index - education label
+2021-07-25 20:31:11,576 - INFO - index - model loaded
+2021-07-25 20:31:11,576 - INFO - index - array created
+2021-07-25 20:31:11,590 - INFO - index - prediction  done
+2021-07-25 20:31:11,590 - INFO - index - pass the prediction if else
+2021-07-25 20:31:11,590 - INFO - index - Returning the result html page
+2021-07-25 20:31:13,350 - INFO - index - Prediction page shown
+2021-07-25 20:31:13,351 - INFO - index - If passed
+2021-07-25 20:31:13,351 - INFO - index - enter inside try
+2021-07-25 20:31:13,351 - INFO - index - age
+2021-07-25 20:31:13,351 - INFO - index - workclass
+2021-07-25 20:31:13,351 - INFO - index - occupation
+2021-07-25 20:31:13,351 - INFO - index - sex
+2021-07-25 20:31:13,351 - INFO - index - hourse per week
+2021-07-25 20:31:13,351 - INFO - index - education label
+2021-07-25 20:31:13,351 - INFO - index - model loaded
+2021-07-25 20:31:13,352 - INFO - index - array created
+2021-07-25 20:31:13,362 - INFO - index - prediction  done
+2021-07-25 20:31:13,362 - INFO - index - pass the prediction if else
+2021-07-25 20:31:13,363 - INFO - index - Returning the result html page
+2021-07-25 20:31:16,404 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:31:20,070 - INFO - index - Prediction page shown
+2021-07-25 20:31:20,071 - INFO - index - If passed
+2021-07-25 20:31:20,071 - INFO - index - enter inside try
+2021-07-25 20:31:20,071 - INFO - index - age
+2021-07-25 20:31:20,071 - INFO - index - workclass
+2021-07-25 20:31:20,072 - INFO - index - occupation
+2021-07-25 20:31:20,072 - INFO - index - sex
+2021-07-25 20:31:20,072 - INFO - index - hourse per week
+2021-07-25 20:31:20,072 - INFO - index - education label
+2021-07-25 20:31:20,072 - INFO - index - model loaded
+2021-07-25 20:31:20,072 - INFO - index - array created
+2021-07-25 20:31:20,082 - INFO - index - prediction  done
+2021-07-25 20:31:20,082 - INFO - index - pass the prediction if else
+2021-07-25 20:31:20,083 - INFO - index - Returning the result html page
+2021-07-25 20:31:28,075 - INFO - index - Prediction page shown
+2021-07-25 20:31:28,075 - INFO - index - If passed
+2021-07-25 20:31:28,075 - INFO - index - enter inside try
+2021-07-25 20:31:28,076 - INFO - index - age
+2021-07-25 20:31:28,076 - INFO - index - workclass
+2021-07-25 20:31:28,076 - INFO - index - occupation
+2021-07-25 20:31:28,077 - INFO - index - sex
+2021-07-25 20:31:28,077 - INFO - index - hourse per week
+2021-07-25 20:31:28,077 - INFO - index - education label
+2021-07-25 20:31:28,077 - INFO - index - model loaded
+2021-07-25 20:31:28,077 - INFO - index - array created
+2021-07-25 20:31:28,087 - INFO - index - prediction  done
+2021-07-25 20:31:28,088 - INFO - index - pass the prediction if else
+2021-07-25 20:31:28,088 - INFO - index - Returning the result html page
+2021-07-25 20:31:58,806 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:32:03,632 - INFO - index - Prediction page shown
+2021-07-25 20:32:03,632 - INFO - index - If passed
+2021-07-25 20:32:03,632 - INFO - index - enter inside try
+2021-07-25 20:32:03,635 - INFO - index - age
+2021-07-25 20:32:03,635 - INFO - index - workclass
+2021-07-25 20:32:03,635 - INFO - index - occupation
+2021-07-25 20:32:03,635 - INFO - index - sex
+2021-07-25 20:32:03,635 - INFO - index - hourse per week
+2021-07-25 20:32:03,635 - INFO - index - education label
+2021-07-25 20:32:03,635 - INFO - index - model loaded
+2021-07-25 20:32:03,635 - INFO - index - array created
+2021-07-25 20:32:03,648 - INFO - index - prediction  done
+2021-07-25 20:32:03,648 - INFO - index - pass the prediction if else
+2021-07-25 20:32:03,649 - INFO - index - Returning the result html page
+2021-07-25 20:32:10,783 - INFO - index - Prediction page shown
+2021-07-25 20:32:10,783 - INFO - index - If passed
+2021-07-25 20:32:10,783 - INFO - index - enter inside try
+2021-07-25 20:32:10,784 - INFO - index - age
+2021-07-25 20:32:10,784 - INFO - index - workclass
+2021-07-25 20:32:10,784 - INFO - index - occupation
+2021-07-25 20:32:10,784 - INFO - index - sex
+2021-07-25 20:32:10,784 - INFO - index - hourse per week
+2021-07-25 20:32:10,784 - INFO - index - education label
+2021-07-25 20:32:10,784 - INFO - index - model loaded
+2021-07-25 20:32:10,784 - INFO - index - array created
+2021-07-25 20:32:10,795 - INFO - index - prediction  done
+2021-07-25 20:32:10,795 - INFO - index - pass the prediction if else
+2021-07-25 20:32:10,796 - INFO - index - Returning the result html page
+2021-07-25 20:32:59,306 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:33:10,315 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-25 20:33:20,453 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-30 20:30:40,650 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-30 20:30:55,795 - INFO - index - Prediction page shown
+2021-07-30 20:30:55,795 - INFO - index - If passed
+2021-07-30 20:30:55,795 - INFO - index - enter inside try
+2021-07-30 20:30:55,841 - INFO - index - age
+2021-07-30 20:30:55,842 - INFO - index - workclass
+2021-07-30 20:30:55,842 - INFO - index - occupation
+2021-07-30 20:30:55,842 - INFO - index - sex
+2021-07-30 20:30:55,842 - INFO - index - hourse per week
+2021-07-30 20:30:55,842 - INFO - index - education label
+2021-07-30 20:30:55,842 - INFO - index - model loaded
+2021-07-30 20:30:55,843 - INFO - index - array created
+2021-07-30 20:30:56,222 - INFO - index - prediction  done
+2021-07-30 20:30:56,222 - INFO - index - pass the prediction if else
+2021-07-30 20:30:56,223 - INFO - index - Returning the result html page
+2021-07-30 20:31:03,471 - INFO - index - Prediction page shown
+2021-07-30 20:31:03,472 - INFO - index - If passed
+2021-07-30 20:31:03,472 - INFO - index - enter inside try
+2021-07-30 20:31:03,472 - INFO - index - age
+2021-07-30 20:31:03,473 - INFO - index - workclass
+2021-07-30 20:31:03,473 - INFO - index - occupation
+2021-07-30 20:31:03,473 - INFO - index - sex
+2021-07-30 20:31:03,473 - INFO - index - hourse per week
+2021-07-30 20:31:03,473 - INFO - index - education label
+2021-07-30 20:31:03,473 - INFO - index - model loaded
+2021-07-30 20:31:03,473 - INFO - index - array created
+2021-07-30 20:31:03,484 - INFO - index - prediction  done
+2021-07-30 20:31:03,484 - INFO - index - pass the prediction if else
+2021-07-30 20:31:03,485 - INFO - index - Returning the result html page
+2021-07-30 20:41:51,545 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-30 20:41:58,743 - INFO - index - Prediction page shown
+2021-07-30 20:41:58,743 - INFO - index - If passed
+2021-07-30 20:41:58,744 - INFO - index - enter inside try
+2021-07-30 20:41:58,746 - INFO - index - age
+2021-07-30 20:41:58,746 - INFO - index - workclass
+2021-07-30 20:41:58,747 - INFO - index - occupation
+2021-07-30 20:41:58,747 - INFO - index - sex
+2021-07-30 20:41:58,747 - INFO - index - hourse per week
+2021-07-30 20:41:58,747 - INFO - index - education label
+2021-07-30 20:41:58,747 - INFO - index - model loaded
+2021-07-30 20:41:58,747 - INFO - index - array created
+2021-07-30 20:41:58,763 - INFO - index - prediction  done
+2021-07-30 20:41:58,763 - INFO - index - pass the prediction if else
+2021-07-30 20:41:58,764 - INFO - index - Returning the result html page
+2021-07-30 20:42:44,220 - INFO - homePage - -----------------------Home pahe shown------------------------
+2021-07-30 20:42:53,672 - INFO - index - Prediction page shown
+2021-07-30 20:42:53,672 - INFO - index - If passed
+2021-07-30 20:42:53,691 - INFO - index - enter inside try
+2021-07-30 20:42:53,692 - INFO - index - age
+2021-07-30 20:42:53,692 - INFO - index - workclass
+2021-07-30 20:42:53,692 - INFO - index - occupation
+2021-07-30 20:42:53,692 - INFO - index - sex
+2021-07-30 20:42:53,692 - INFO - index - hourse per week
+2021-07-30 20:42:53,692 - INFO - index - education label
+2021-07-30 20:42:53,692 - INFO - index - model loaded
+2021-07-30 20:42:53,692 - INFO - index - array created
+2021-07-30 20:42:53,714 - INFO - index - prediction  done
+2021-07-30 20:42:53,714 - INFO - index - pass the prediction if else
+2021-07-30 20:42:53,715 - INFO - index - Returning the result html page
